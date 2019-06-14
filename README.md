@@ -18,9 +18,9 @@ Before run, download and drag all dataset and model file into the 'raw_data3'
 
 The workflow is
 ```
-      Data preprocessing                         (run data_preprocessing.py) 
-  --> Train classifier                           (run classifier.py with bow part for bow+bayes in main function, or run                                                         classifier.py with glove_train part to train the glove embedding, or run                                                       classifier.py with glove+CNN part to train the CNN classifier) 
-  --> visualization                              (run visualization.py with its different methods to visualize the                                                               experimental results)
+      Data preprocessing(run data_preprocessing.py) 
+  --> Train classifier(run classifier.py with bow part for bow+bayes in main function, or run classifier.py with glove_train part to train the glove embedding, or run classifier.py with glove+CNN part to train the CNN classifier) 
+  --> visualization(run visualization.py with its different methods to visualize the experimental results)
 ```
 
 
